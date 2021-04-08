@@ -1,5 +1,6 @@
 ### Hello there 👋
 
+🚀 Aerospace Engineering Student and Amateur Rocket Scientist
 
 🌱 I’m currently learning C++ and ML
 
