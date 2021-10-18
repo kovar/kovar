@@ -4,7 +4,7 @@
 
 🔥 Amateur Propulsion Engineer
 
-🌍 Founder & President @czechrockets
+🌍 Founder & President [@czechrockets](https://github.com/czechrockets)
 
 🌱 Currently learning C++ and ML
 
