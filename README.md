@@ -1,8 +1,12 @@
 ### Hello there 👋
 
-🚀 Aerospace Engineering Student and Amateur Rocket Scientist
+🚀 Aerospace Engineering Student
 
-🌱 I’m currently learning C++ and ML
+🔥 Amateur Propulsion Engineer
+
+🌍 Founder & President @czechrockets
+
+🌱 Currently learning C++ and ML
 
 📫 How to reach me: <jiri@kovar.cz>
 
